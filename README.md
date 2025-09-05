@@ -23,7 +23,7 @@ Ensure you have Python installed on your system. You can download it from [Pytho
 ### Steps to Install
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adityachavan17/Movie-Recommendation-System.git
+   git clone https://github.com/digvijay-200515/Movie-Recommendation-System.git
    cd Movie-Recommendation-System
    ```
 2. Install the required dependencies:
